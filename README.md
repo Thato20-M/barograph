@@ -1,7 +1,7 @@
 # Barograph
 
-[![CI](https://github.com/USERNAME/barograph/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/barograph/actions/workflows/ci.yml)
-[![Deploy](https://github.com/USERNAME/barograph/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/barograph/actions/workflows/deploy.yml)
+[![CI](https://github.com/Thato20-M/barograph/actions/workflows/ci.yml/badge.svg)](https://github.com/Thato20-M/barograph/actions/workflows/ci.yml)
+[![Deploy](https://github.com/Thato20-M/barograph/actions/workflows/deploy.yml/badge.svg)](https://github.com/Thato20-M/barograph/actions/workflows/deploy.yml)
 
 A weather app that computes rather than reports.
 
