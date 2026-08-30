@@ -11,9 +11,12 @@ comfort composite from published meteorological formulas, compares the day again
 reanalysis, and turns the result into advice. Every derived figure can be expanded to show the
 equation with the values substituted in.
 
+![Barograph reading a station](docs/screenshot1.png)
+
+![Derived quantities with working shown](docs/screenshot2.png)
+
 **Live demo:** https://thato20-m.github.io/barograph/
 
----
 
 ## Why this exists
 
