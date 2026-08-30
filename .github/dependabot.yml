@@ -16,3 +16,9 @@ updates:
     directory: /
     schedule:
       interval: monthly
+    groups:
+      # Action bumps arrive together and are almost always safe as a set.
+      # Ungrouped, a routine month opens five near-identical PRs.
+      actions:
+        patterns:
+          - "*"
